@@ -7,7 +7,7 @@ public:
         int beg=1;
         int end=n;
         while(beg<end){
-            int mid=(beg+end)/2;
+            int mid = beg + (end - beg) / 2;
             if(isBadVersion(mid)) end=mid;
             else beg=mid+1;
         }
