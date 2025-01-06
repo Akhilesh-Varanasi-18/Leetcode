@@ -16,12 +16,8 @@ public:
             for(int j=0;j<ind.size();j++)
             {
                 c+=abs(i-ind[j]);
-                // cout<<c;
             }
             ans.push_back(c);
-        }
-        for(int i=0;i<ind.size();i++){
-            cout<<ind[i]<<" ";
         }
         return ans;
     }
