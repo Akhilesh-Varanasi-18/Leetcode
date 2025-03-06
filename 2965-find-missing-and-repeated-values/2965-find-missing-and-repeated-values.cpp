@@ -9,18 +9,14 @@ public:
                 mp[grid[i][j]]++;
             }
         }
-        for(auto i:mp){
-            if(i.second>1){
-                res.push_back(i.first);
-            }
-            check.push_back(i.first);
+        int rep=-1;
+        int mis=-1;
+        for(int i=1;i<=grid.size()*grid.size();i++){
+            if(mp[i]==2)rep=i;
+            if(mp[i]==0)mis=i;
         }
-        sort(check.begin(),check.end());
-        for(int i=1;i<check.size();i++){
-            if(check[i]-check[i-1]>1)res.push_back(check[i]-1);
-        }
-        if(res.size()<2 && check[0]!=1)res.push_back(1);
-        if(res.size()<2 && check[0]==1)res.push_back(check[check.size()-1]+1);
+        res.push_back(rep);
+        res.push_back(mis);
         return res;   
     }
 };
