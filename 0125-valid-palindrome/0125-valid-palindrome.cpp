@@ -1,23 +1,14 @@
 class Solution {
 public:
-bool reverse(int idx,string &ans){
-    //base case
-    if(idx>=ans.size()/2)return true;
-    //sub problem
-    if(ans[idx]!=ans[ans.size()-idx-1])return false;
-    return reverse(idx+1,ans);
-}
     bool isPalindrome(string s) {
-        if(s==" ")return true;
-        string ans;
+        string res;
         for(int i=0;i<s.size();i++){
-            if(s[i] >= 'A' && s[i] <= 'Z'){
-                ans += tolower(s[i]);
-            }
-            else if(s[i] >= 'a' && s[i] <= 'z') ans+=s[i];
-            else if(s[i] >= '0' && s[i] <= '9') ans += s[i];
+            if(isupper(s[i])) s[i]=tolower(s[i]);
+            if((s[i]>='a' and s[i]<='z') or (s[i]>=0 and s[i]<=9)) res+=s[i];
         }
-        cout<<ans;
-        return reverse(0,ans);
+        string ans=res;
+        reverse(res.begin(),res.end());
+        if(res==ans)return true;
+        else return false;
     }
 };
