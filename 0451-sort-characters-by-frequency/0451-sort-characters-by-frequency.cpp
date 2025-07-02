@@ -1,26 +1,31 @@
 class Solution {
 public:
-    static bool compare(pair<int, char>& a, pair<int, char>& b) {
-        return a.first > b.first;
-    }
-
     string frequencySort(string s) {
-        vector<int> hash(256, 0);
-        string result;
-        for (auto u : s) {
-            hash[u]++;
+        string ans="";
+        unordered_map<char,int>mp;
+        for(auto i:s)
+        {
+            mp[i]++;
         }
-        vector<pair<int, char>> charFreq;
-        for (int i = 0; i < 256; i++) {
-            if (hash[i] > 0) {
-                charFreq.push_back({hash[i], char(i)});
+        priority_queue<pair<int,char>>pq;
+        for(auto i:mp)
+        {
+            pair<int,char>p;
+            p.first=i.second;
+            p.second=i.first;
+            pq.push(p);
+        }
+        while(!pq.empty())
+        {
+            pair<int,char>p=pq.top();
+            pq.pop();
+            int a=p.first;
+            while(a)
+            {
+                ans+=p.second;
+                a--;
             }
         }
-        sort(charFreq.begin(), charFreq.end(), compare);
-
-        for (auto u : charFreq) {
-            result.append(u.first, u.second);
-        }
-        return result;
+        return ans;
     }
 };
