@@ -12,7 +12,7 @@
 class Solution {
 public:
     int maxy(TreeNode* node){
-        if(node == NULL)return 0;
+        if(node == NULL)return 1;
         int lh=maxy(node->left);
         int rh=maxy(node->right);
         if(lh == -1 || rh == -1)return -1;
@@ -20,13 +20,7 @@ public:
         return 1+max(lh,rh);
     }
     bool isBalanced(TreeNode* root) {
-        if(root == NULL)return true;
-        TreeNode* n=root;
-        int l=maxy(n->left);
-        int r=maxy(n->right);
-        if(l==-1 || r==-1)return false;
-        if(abs(l-r)>1)return false;
-        return true;
+        return(maxy(root)!=-1);
         
     }
 };
