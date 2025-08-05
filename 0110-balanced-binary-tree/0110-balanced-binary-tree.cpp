@@ -15,6 +15,8 @@ public:
         if(node == NULL)return 0;
         int lh=maxy(node->left);
         int rh=maxy(node->right);
+        if(lh == -1 || rh == -1)return -1;
+        if(abs(lh-rh)>1)return -1;
         return 1+max(lh,rh);
     }
     bool isBalanced(TreeNode* root) {
@@ -22,10 +24,8 @@ public:
         TreeNode* n=root;
         int l=maxy(n->left);
         int r=maxy(n->right);
+        if(l==-1 || r==-1)return false;
         if(abs(l-r)>1)return false;
-        bool lefty=isBalanced(n->left);
-        bool righty=isBalanced(n->right);
-        if(!lefty || !righty)return false;
         return true;
         
     }
