@@ -19,22 +19,17 @@ public:
         q.push(root);
         while(!q.empty()){
             vector<int>l;
-            cnt++;
             int s=q.size();
             for(int i=0;i<s;i++){
                 TreeNode* node=q.front();
                 q.pop();
                 l.push_back(node->val);
-                if(cnt%2!=0){
-                    if(node->right != NULL)q.push(node->right);
-                    if(node->left != NULL)q.push(node->left);
-                }
-                else{
-                    if(node->left != NULL)q.push(node->left);
-                    if(node->right != NULL)q.push(node->right);
-                }
+                if(node->left != NULL)q.push(node->left);
+                if(node->right != NULL)q.push(node->right);
             }
+            if(cnt&1) reverse(l.begin(),l.end());
             res.push_back(l);
+            cnt++;
         } 
         return res;
     }
