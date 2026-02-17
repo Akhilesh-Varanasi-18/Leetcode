@@ -9,12 +9,6 @@ public:
     }
     int minOperations(vector<int>& nums, int k) {
         int SumofElements = ArraySum(nums);
-        int minimumOperations = 0;
-        while(SumofElements >= 0){
-            if(SumofElements % k == 0) break;
-            SumofElements--;
-            minimumOperations++;
-        }
-        return minimumOperations;
+        return(SumofElements % k);
     }
 };
