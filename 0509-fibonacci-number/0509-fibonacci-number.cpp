@@ -1,16 +1,12 @@
 class Solution {
+    int f(int n,vector<int>&dp){
+        if(n<=1)return n;
+        if(dp[n] != -1)return dp[n];
+        return dp[n] = f(n-1,dp)+f(n-2,dp);
+    }
 public:
-int fibvalue(int n,vector<int> &data){
-    if(n<=1)return n;
-    if(data[n]!=-1)return data[n];
-    int left = fibvalue(n-1,data);
-    int right=fibvalue(n-2,data);
-    data[n]=left+right;
-    return left+right;
-
-}
     int fib(int n) {
-        vector<int>data(n+1,-1);
-        return fibvalue(n,data);
+        vector<int>dp(n+1,-1);
+        return f(n,dp);
     }
 };
