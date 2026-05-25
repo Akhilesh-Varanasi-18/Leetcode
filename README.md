@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/a1k2-c3/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/a1k2-c3/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/a1k2-c3/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/a1k2-c3/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/a1k2-c3/Leetcode/tree/main/0342-power-of-four/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
