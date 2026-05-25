@@ -1,20 +1,18 @@
 class Solution {
 public:
-    string ns(string es, vector<char>&v){
-        string ans =es;
-        for(auto i:es){
-            char nw = v[(lower_bound(v.begin(), v.end(), i) - v.begin())+1];
-            ans+=nw;
+    string ns(int k, string word, string alpha){
+        string ans=word;
+        if(word.size()>=k)return word;
+        for(auto i : ans){
+            char nw = alpha[alpha.find(i)+1];
+            word+=nw;
         }
-        return ans;
+        return ns(k,word,alpha);
     }
     char kthCharacter(int k) {
-       vector<char>alpha;
-       for(char ch='a';ch<='z';ch++)alpha.push_back(ch);
-       string word ="a";
-       while(word.size()<k){
-        word = ns(word,alpha);
-       }
-       return word[k-1];
+        string alpha = "abcdefghijklmnopqrstuvwxyz";
+        string word = "a";
+        string res = ns(k,word,alpha);
+        return res[k-1];
     }
 };
