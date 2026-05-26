@@ -12,9 +12,10 @@ public:
                 ch = tolower(ch);
                 mp2[ch]++;
             }
-            mp2[i.first]++;
+            else mp2[i.first]++;
         }  
         for(auto i : mp2){
+            cout<<i.first<<" "<<i.second<<endl;
             if(i.second >= 2)s_cnt++;
         };
         return s_cnt; 
