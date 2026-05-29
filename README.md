@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/a1k2-c3/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/a1k2-c3/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/a1k2-c3/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/a1k2-c3/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
