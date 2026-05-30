@@ -1,19 +1,22 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char, int> mp;
+        unordered_map<char, int> mpp1;
+        unordered_map<char, int> mpp2;
 
-        for (char c : magazine) {
-            mp[c]++;
+        for (char& a : ransomNote) {
+            mpp1[a]++;
         }
-        bool ans = true;
-        for (char c : ransomNote) {
-            if (mp.find(c) == mp.end() || mp[c] == 0) {
-                ans = false;
-                break;
+
+        for (char& a : magazine) {
+            mpp2[a]++;
+        }
+
+        for (char& a : ransomNote) {
+            if (mpp1[a] > mpp2[a]) {
+                return false;
             }
-            mp[c]--;
         }
-        return ans;
+        return true;
     }
 };
