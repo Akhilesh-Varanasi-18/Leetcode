@@ -115,4 +115,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/a1k2-c3/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/a1k2-c3/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/a1k2-c3/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/a1k2-c3/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/a1k2-c3/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/a1k2-c3/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
