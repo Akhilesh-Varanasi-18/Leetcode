@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0038-count-and-say](https://github.com/a1k2-c3/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -156,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
