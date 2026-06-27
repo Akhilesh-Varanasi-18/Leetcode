@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/a1k2-c3/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [1078-occurrences-after-bigram](https://github.com/a1k2-c3/Leetcode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
