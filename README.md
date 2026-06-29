@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-occurrences-after-bigram](https://github.com/a1k2-c3/Leetcode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/a1k2-c3/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/a1k2-c3/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/a1k2-c3/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/a1k2-c3/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
