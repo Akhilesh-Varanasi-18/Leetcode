@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/a1k2-c3/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/a1k2-c3/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/a1k2-c3/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0542-01-matrix](https://github.com/a1k2-c3/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0806-number-of-lines-to-write-string](https://github.com/a1k2-c3/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/a1k2-c3/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0542-01-matrix](https://github.com/a1k2-c3/Leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/a1k2-c3/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/a1k2-c3/Leetcode/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
