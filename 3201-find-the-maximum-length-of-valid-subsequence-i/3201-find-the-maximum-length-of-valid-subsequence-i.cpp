@@ -1,18 +1,17 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        int maxi = 0, e = 0, o = 0, z = 0, prev;
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] % 2 == 0) {
-                e++;
-            } else {
-                o++;
-            }
-            if (i == 0 || (nums[i] + prev) % 2 != 0) {
-                z++;
-                prev = nums[i];
+        int countEven = 0, countOdd = 0, countAlt = 0;
+        int lastParity = -1;
+        for (int num : nums) {
+            int parity = num % 2;
+            if (parity == 0) countEven++;
+            else countOdd++;
+            if (parity != lastParity) {
+                countAlt++;
+                lastParity = parity;
             }
         }
-        return max({e, o, z});
+        return max({countEven, countOdd, countAlt});
     }
 };
