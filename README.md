@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-occurrences-after-bigram](https://github.com/a1k2-c3/Leetcode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/a1k2-c3/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/a1k2-c3/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
