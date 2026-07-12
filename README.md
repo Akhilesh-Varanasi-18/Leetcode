@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/a1k2-c3/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1399-count-largest-group](https://github.com/a1k2-c3/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1925-count-square-sum-triples](https://github.com/a1k2-c3/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/a1k2-c3/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/a1k2-c3/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
