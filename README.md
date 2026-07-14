@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/a1k2-c3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1399-count-largest-group](https://github.com/a1k2-c3/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/a1k2-c3/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/a1k2-c3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/a1k2-c3/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/a1k2-c3/Leetcode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/a1k2-c3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1399-count-largest-group](https://github.com/a1k2-c3/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 ## Greedy
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/a1k2-c3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
