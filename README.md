@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1399-count-largest-group](https://github.com/a1k2-c3/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/a1k2-c3/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/a1k2-c3/Leetcode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/a1k2-c3/Leetcode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/a1k2-c3/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -250,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/a1k2-c3/Leetcode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 <!---LeetCode Topics End-->
