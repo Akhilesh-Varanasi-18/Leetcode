@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/a1k2-c3/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/a1k2-c3/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/a1k2-c3/Leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/a1k2-c3/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-best-team-with-no-conflicts](https://github.com/a1k2-c3/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/a1k2-c3/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/a1k2-c3/Leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/a1k2-c3/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2861-maximum-number-of-alloys](https://github.com/a1k2-c3/Leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/a1k2-c3/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/a1k2-c3/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/a1k2-c3/Leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/a1k2-c3/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/a1k2-c3/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -241,10 +245,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/a1k2-c3/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
