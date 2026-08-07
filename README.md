@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/a1k2-c3/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/a1k2-c3/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/a1k2-c3/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/a1k2-c3/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/a1k2-c3/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/a1k2-c3/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2861-maximum-number-of-alloys](https://github.com/a1k2-c3/Leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/a1k2-c3/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
