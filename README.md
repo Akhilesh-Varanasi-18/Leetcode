@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/a1k2-c3/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/a1k2-c3/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/a1k2-c3/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/a1k2-c3/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/a1k2-c3/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2861-maximum-number-of-alloys](https://github.com/a1k2-c3/Leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/a1k2-c3/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/a1k2-c3/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/a1k2-c3/Leetcode/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/a1k2-c3/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/a1k2-c3/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
