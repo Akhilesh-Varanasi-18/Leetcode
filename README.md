@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/a1k2-c3/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/a1k2-c3/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/a1k2-c3/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/a1k2-c3/Leetcode/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 ## String
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/a1k2-c3/Leetcode/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/a1k2-c3/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/a1k2-c3/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/a1k2-c3/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
