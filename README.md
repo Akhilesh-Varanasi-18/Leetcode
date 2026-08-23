@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/a1k2-c3/Leetcode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/a1k2-c3/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
+| [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/a1k2-c3/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/a1k2-c3/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/a1k2-c3/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2525-categorize-box-according-to-criteria](https://github.com/a1k2-c3/Leetcode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/a1k2-c3/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/a1k2-c3/Leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/a1k2-c3/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/a1k2-c3/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -308,5 +311,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/a1k2-c3/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 <!---LeetCode Topics End-->
