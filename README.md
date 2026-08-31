@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/a1k2-c3/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/a1k2-c3/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/a1k2-c3/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/a1k2-c3/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/a1k2-c3/Leetcode/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/a1k2-c3/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/a1k2-c3/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2525-categorize-box-according-to-criteria](https://github.com/a1k2-c3/Leetcode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/a1k2-c3/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/a1k2-c3/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/a1k2-c3/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2446-determine-if-two-events-have-conflict](https://github.com/a1k2-c3/Leetcode/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2861-maximum-number-of-alloys](https://github.com/a1k2-c3/Leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/a1k2-c3/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/a1k2-c3/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/a1k2-c3/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/a1k2-c3/Leetcode/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/a1k2-c3/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/a1k2-c3/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/a1k2-c3/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/a1k2-c3/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
