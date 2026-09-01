@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/a1k2-c3/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/a1k2-c3/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/a1k2-c3/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/a1k2-c3/Leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/a1k2-c3/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a1k2-c3/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0283-move-zeroes/) | Easy |
