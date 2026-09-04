@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3769-sort-integers-by-binary-reflection](https://github.com/a1k2-c3/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/a1k2-c3/Leetcode/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/a1k2-c3/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/a1k2-c3/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/a1k2-c3/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/a1k2-c3/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
