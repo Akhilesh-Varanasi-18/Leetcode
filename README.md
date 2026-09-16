@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/a1k2-c3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/a1k2-c3/Leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/a1k2-c3/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/a1k2-c3/Leetcode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/a1k2-c3/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
