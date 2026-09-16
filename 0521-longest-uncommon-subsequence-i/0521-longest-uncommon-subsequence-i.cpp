@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findLUSlength(string a, string b) {
-        return (a == b) ? -1 : max(a.length(), b.length());
+        if(a==b)return -1;
+        else if(a.size()>b.size())return a.size();
+        else return b.size();
     }
 };
