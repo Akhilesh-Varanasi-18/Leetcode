@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/a1k2-c3/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/a1k2-c3/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/a1k2-c3/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/a1k2-c3/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/a1k2-c3/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/a1k2-c3/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/a1k2-c3/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a1k2-c3/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/a1k2-c3/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/a1k2-c3/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -349,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/a1k2-c3/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/a1k2-c3/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
