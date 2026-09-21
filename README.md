@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/a1k2-c3/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/a1k2-c3/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/a1k2-c3/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/a1k2-c3/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/a1k2-c3/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/a1k2-c3/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/a1k2-c3/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/a1k2-c3/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/a1k2-c3/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/a1k2-c3/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/a1k2-c3/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/a1k2-c3/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
