@@ -2,8 +2,6 @@ class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
         if(k <= 1)return 0;
-        if(nums.size()==1 and nums[0]==k)return 1;
-        if(nums.size()==1 and nums[0] != k)return 0;
         int p = 1;
         int c = 0;
         int i = 0;
