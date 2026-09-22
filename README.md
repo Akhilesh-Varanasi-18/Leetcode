@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/a1k2-c3/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/a1k2-c3/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/a1k2-c3/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/a1k2-c3/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/a1k2-c3/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a1k2-c3/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/a1k2-c3/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/a1k2-c3/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/a1k2-c3/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
