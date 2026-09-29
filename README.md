@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/a1k2-c3/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2525-categorize-box-according-to-criteria](https://github.com/a1k2-c3/Leetcode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/a1k2-c3/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/a1k2-c3/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/a1k2-c3/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/a1k2-c3/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/a1k2-c3/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0877-stone-game](https://github.com/a1k2-c3/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/a1k2-c3/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/a1k2-c3/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/a1k2-c3/Leetcode/tree/main/3201-find-the-maximum-length-of-valid-subsequence-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/a1k2-c3/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -393,4 +395,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/a1k2-c3/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/a1k2-c3/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 <!---LeetCode Topics End-->
