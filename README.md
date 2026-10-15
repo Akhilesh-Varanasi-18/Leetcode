@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/a1k2-c3/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/a1k2-c3/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1927-sum-game](https://github.com/a1k2-c3/Leetcode/tree/main/1927-sum-game/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/a1k2-c3/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/a1k2-c3/Leetcode/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/a1k2-c3/Leetcode/tree/main/2930-number-of-strings-which-can-be-rearranged-to-contain-substring/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/a1k2-c3/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/a1k2-c3/Leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/a1k2-c3/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/a1k2-c3/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/a1k2-c3/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/a1k2-c3/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/a1k2-c3/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -425,4 +427,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/a1k2-c3/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/a1k2-c3/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/a1k2-c3/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/a1k2-c3/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
