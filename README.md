@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/a1k2-c3/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/a1k2-c3/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/a1k2-c3/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/a1k2-c3/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/a1k2-c3/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/a1k2-c3/Leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/a1k2-c3/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/a1k2-c3/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/a1k2-c3/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/a1k2-c3/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/a1k2-c3/Leetcode/tree/main/3779-minimum-number-of-operations-to-have-distinct-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/a1k2-c3/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
